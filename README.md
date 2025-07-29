@@ -10,8 +10,7 @@ This Flutter project is a **responsive breathing card animation UI**, featuring 
 ## 🎥 Output / Final Result
 
 ✅ Here's a demo showing how this challenge was built and completed:  
-📺 [Watch Output on YouTube]([https://youtube.com/your-final-video-link](https://youtube.com/shorts/dVR4OKxkhuM?feature=share))  
-*(Replace this link with your actual demo video)*
+📺 [Watch Output on YouTube](https://youtube.com/shorts/dVR4OKxkhuM?feature=share)  
 
 ---
 
