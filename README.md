@@ -21,7 +21,6 @@ This Flutter project is a **responsive breathing card animation UI**, featuring 
 - Two sets of cards scaling independently
 - Reusable `CardDesign` widget
 - Custom animation logic extracted into a helper class (`BreathingAnimationController`)
-- Fully responsive layout
 
 ---
 
