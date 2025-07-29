@@ -1,16 +1,34 @@
-# breathing_card_fc
+# 🌬️ Breathing Cards Animation - Flutter Challenge
 
-A new Flutter project.
+This Flutter project is a **responsive breathing card animation UI**, featuring animated scaling cards with peaceful themes like mindfulness, balance, and zen.
 
-## Getting Started
+> 🎯 **Challenge Source**: Inspired by this YouTube Shorts challenge  
+👉 [Watch the challenge prompt](https://youtube.com/shorts/NoF3TlBgxH8?si=gOCjT10t6a957LOS)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎥 Output / Final Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Here's a demo showing how this challenge was built and completed:  
+📺 [Watch Output on YouTube](https://youtube.com/your-final-video-link)  
+*(Replace this link with your actual demo video)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Features
+
+- Breathing animation using `AnimationController` and `CurvedAnimation`
+- Two sets of cards scaling independently
+- Reusable `CardDesign` widget
+- Custom animation logic extracted into a helper class (`BreathingAnimationController`)
+- Fully responsive layout
+
+---
+
+## 📁 Project Structure
+
+```bash
+lib/
+├── breathing_cards.dart               # Main widget file
+├── Card_Design.dart                   # Custom card UI design
+└── breathing_animation_controller.dart  # Animation logic (clean & reusable)
