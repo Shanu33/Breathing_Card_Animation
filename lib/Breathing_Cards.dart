@@ -29,20 +29,20 @@ class _BreathingCardsState extends State<BreathingCards>
 
     curvedAnimation1 = CurvedAnimation(
       parent: controller1,
-      curve: Curves.easeInOut,
+      curve: Curves.ease,
     );
     curvedAnimation2 = CurvedAnimation(
       parent: controller2,
-      curve: Curves.easeInOut,
+      curve: Curves.ease,
     );
 
     ScaleSize1 = Tween<double>(
       begin: 1.01,
-      end: 1.16,
+      end: 1.14,
     ).animate(curvedAnimation1);
     ScaleSize2 = Tween<double>(
       begin: 1.01,
-      end: 1.16,
+      end: 1.14,
     ).animate(curvedAnimation2);
   }
 
