@@ -30,5 +30,4 @@ This Flutter project is a **responsive breathing card animation UI**, featuring 
 ```bash
 lib/
 ├── breathing_cards.dart               # Main widget file
-├── Card_Design.dart                   # Custom card UI design
-└── breathing_animation_controller.dart  # Animation logic (clean & reusable)
+├── Card_Design.dart                   # Custom card UI design (clean & reusable)
